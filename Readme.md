@@ -74,7 +74,7 @@ npm run dev
 
 ## Author
 
-Kakarla Naga Jyoshna
+Karanam Sai Sarath
 
 B.Tech Artificial Intelligence & Data Science
 
